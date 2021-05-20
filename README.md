@@ -18,7 +18,7 @@ You should ensure that you add the following dependency in your Flutter project.
 
 ```yaml
 dependencies:
- flutter_bootstrap_aad: "^1.0.2"
+ flutter_bootstrap_aad: "^1.0.0-null-safety"
 ```
 
 You should then run `flutter packages upgrade` or update your packages in IntelliJ.
