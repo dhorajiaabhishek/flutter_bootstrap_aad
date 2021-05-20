@@ -1,0 +1,13 @@
+name: flutter_bootstrap_aad
+description: A partial implementation of Bootstrap Grid system in Flutter for Responsive Layout.
+version: 1.0.0-null-safety
+homepage: https://github.com/boeledi/flutter_bootstrap
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
